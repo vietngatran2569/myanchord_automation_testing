@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body</name>
+   <tag></tag>
+   <elementGuidId>8035b538-fd01-42dc-9e79-422fcfd46221</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SongCategoryEnglishSelect languageEnglishMyanmarPublish songsubscribersubscriberProfileLogoutSearchChordSongArtistNothing hereTry another keyword{&quot;props&quot;:{&quot;pageProps&quot;:{&quot;locale&quot;:{&quot;mm&quot;:{&quot;success&quot;:&quot;အောင်မြင်မှု&quot;,&quot;fail&quot;:&quot;ကျရှုံး&quot;,&quot;Invalid account&quot;:&quot;မမှန်ကန်သောအကောင့်&quot;,&quot;Invalid old password&quot;:&quot;မမှန်ကန်သောစကားဝှက်အဟောင်း&quot;,&quot;Password is not strong enough&quot;:&quot;စကားဝှက်သည်မလုံလောက်ပါ&quot;,&quot;New password must different old password&quot;:&quot;စကားဝှက်အသစ်သည်ကွဲပြားသောစကားဝှက်အဟောင်းကိုပြောင်းရမည်&quot;,&quot;Song&quot;:&quot;သီချင်း&quot;,&quot;Category&quot;:&quot;အမျိုးအစား&quot;,&quot;Publish song&quot;:&quot;သီချင်းထုတ်ပါ&quot;,&quot;Profile&quot;:&quot;ပရိုဖိုင်း&quot;,&quot;Logout&quot;:&quot;ထွက်ပေါက်&quot;,&quot;Genres&quot;:&quot;အမျိုးအစားများ&quot;,&quot;Songs&quot;:&quot;အမျိုးအစားများ&quot;,&quot;Top popular&quot;:&quot;ထိပ်တန်းရေပန်းစားသော&quot;,&quot;Top recent&quot;:&quot;ထိပ်တန်းမကြာသေးမီက&quot;,&quot;Top view&quot;:&quot;အပေါ်ဆုံးမြင်ကွင်း&quot;,&quot;Chord name&quot;:&quot;စိတျဝငျစားနာမ&quot;,&quot;Videos&quot;:&quot;ဗွီဒီယိုများ&quot;,&quot;Composers&quot;:&quot;တေးရေးဆရာများ&quot;,&quot;Artists&quot;:&quot;အနုပညာရှင်&quot;,&quot;Genre&quot;:&quot;အမျိုးအစား&quot;,&quot;Tone&quot;:&quot;အသံ&quot;,&quot;Rock&quot;:&quot;ရော့ခ်&quot;,&quot;Approve&quot;:&quot;ခွင့်ပြု&quot;,&quot;Comment&quot;:&quot;မှတ်ချက်&quot;,&quot;Leave your message here&quot;:&quot;မင်းရဲ့မက်ဆေ့ခ်ျကိုဒီမှာထားခဲ့ပါ&quot;,&quot;Add comment&quot;:&quot;ထင်မြင်ချက်ပေါင်းထည့်သည်&quot;,&quot;Show more&quot;:&quot;နောက်ထပ်ပြပါ&quot;,&quot;Reply&quot;:&quot;ပြန်ပြောပါ&quot;}}},&quot;__N_SSG&quot;:true},&quot;page&quot;:&quot;/search&quot;,&quot;query&quot;:{},&quot;buildId&quot;:&quot;MXw95tgWSGWyY1MZm3WnH&quot;,&quot;nextExport&quot;:false,&quot;isFallback&quot;:false,&quot;gsp&quot;:true,&quot;head&quot;:[[&quot;meta&quot;,{&quot;charSet&quot;:&quot;utf-8&quot;}],[&quot;meta&quot;,{&quot;name&quot;:&quot;viewport&quot;,&quot;content&quot;:&quot;width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no&quot;}],[&quot;meta&quot;,{&quot;charset&quot;:&quot;UTF-8&quot;}],[&quot;link&quot;,{&quot;href&quot;:&quot;/semantic.min.css&quot;,&quot;rel&quot;:&quot;stylesheet&quot;}],[&quot;script&quot;,{&quot;data-ad-client&quot;:&quot;ca-pub-3825291219427330&quot;,&quot;async&quot;:true,&quot;src&quot;:&quot;https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;}],[&quot;title&quot;,{&quot;children&quot;:&quot;Myanchords&quot;}],[&quot;script&quot;,{&quot;src&quot;:&quot;/jquery.js&quot;,&quot;type&quot;:&quot;text/javascript&quot;}],[&quot;script&quot;,{&quot;src&quot;:&quot;/raphael.js&quot;,&quot;type&quot;:&quot;text/javascript&quot;}],[&quot;script&quot;,{&quot;src&quot;:&quot;/jtab.js&quot;,&quot;type&quot;:&quot;text/javascript&quot;}]]}/html[1]/body[1]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+   </webElementXpaths>
+</WebElementEntity>
